@@ -3,16 +3,17 @@
 
 
 ## Research Interest 
-Aspiring researcher in combinatorial optimization, algorithm development, machine learning and data science.  
-**Location:** Dhaka, Bangladesh
+- Algorithm Development | Combinatorial Optimization | Machine Learning | Data Science | Graph Theory | Discrete Mathematics  | Mathematical Modeling | Computational Mathematics
 
 ## Education
 
-### M.Sc. in Applied Mathematics** | Khulna University (2023)  
-  - Thesis: Improvement of Genetic Algorithm for Traveling Salesman Problem  
+### M.Sc. in Applied Mathematics | Khulna University (2023)  
+#### Thesis: Improvement of the Genetic Algorithm Through Fuzzy C-Means Clustering with Local Search for Traveling Salesman Problem
+  - An improved genetic algorithm was proposed where a clustering algorithm and local search mechanism are adopted to find optimal route for the traveling salesman. The error rate was less than 0.5% in 32 datasets out of 52 datasets. Statistical analyses were also   performed on the resultant data of the proposed algorithm comparing to others state-of-the-art algorithms.
+  - For more details, [Click Here] (https://drive.google.com/file/d/1wh9t_6JGMHnF86aez8pmcG8zfrJ_97yQ/view?usp=sharing)
   - Tools: MATLAB, Excel
 
-### B.Sc. (Hons) in Mathematics** | Khulna University (2022)  
+### B.Sc. (Hons) in Mathematics | Khulna University (2022)  
   - Thesis: Natural Convection Flow in Vertical Microchannels  
   - Tools: Mathematica
 
@@ -56,14 +57,7 @@ Aspiring researcher in combinatorial optimization, algorithm development, machin
 - **Visualization:** PowerBI, Tableau, Mathematica  
 - **Tools:** MS Excel, SPSS, LaTeX  
 
-### Research Areas
-- Algorithm Development 
-- Combinatorial Optimization  
-- Machine Learning
-- Data Science
-- Graph Theory
-- Discrete Mathematics 
-- Mathematical Modeling  
+
 
 ---
 
